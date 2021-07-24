@@ -33,7 +33,7 @@ var messages = [
     "Great, Now We'll See How Well You Maintain The Beat On Your Own!",
     "The Beat Is Now Going To Fade...",
     "Keep Going!",
-    "Thank You For Playing, Your Scores Has Been Recorded!"
+    "Thank You For Playing, Your Score Has Been Recorded!"
 ];
 var pressTime = [];
 
